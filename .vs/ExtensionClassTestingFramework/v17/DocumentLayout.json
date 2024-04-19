@@ -1,18 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Transfer\\ExtensionClassTestingFramework\\",
+  "WorkspaceRootPath": "C:\\Users\\jason.tira\\source\\repos\\SyteLineExtensionClassTestingFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|h:\\transfer\\extensionclasstestingframework\\extensionclasstestingframework\\yourextensionclasscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|c:\\users\\jason.tira\\source\\repos\\sytelineextensionclasstestingframework\\extensionclasstestingframework\\yourextensionclasscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|solutionrelative:extensionclasstestingframework\\yourextensionclasscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|h:\\transfer\\extensionclasstestingframework\\extensionclasstestingframework\\sqlinterrogator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|solutionrelative:extensionclasstestingframework\\sqlinterrogator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|c:\\users\\jason.tira\\source\\repos\\sytelineextensionclasstestingframework\\extensionclasstestingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|solutionrelative:extensionclasstestingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|h:\\transfer\\extensionclasstestingframework\\extensionclasstestingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4946D065-B133-4B91-8D81-DF25EA7253A6}|ExtensionClassTestingFramework\\ExtensionClassTestingFramework.csproj|solutionrelative:extensionclasstestingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\SQLInterrogator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,46 +24,40 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason.tira\\source\\repos\\SyteLineExtensionClassTestingFramework\\ExtensionClassTestingFramework\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionClassTestingFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\jason.tira\\source\\repos\\SyteLineExtensionClassTestingFramework\\ExtensionClassTestingFramework\\Program.cs",
+              "RelativeToolTip": "ExtensionClassTestingFramework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:28:12.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "YourExtensionClassCode.cs",
-              "DocumentMoniker": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\YourExtensionClassCode.cs",
+              "DocumentMoniker": "C:\\Users\\jason.tira\\source\\repos\\SyteLineExtensionClassTestingFramework\\ExtensionClassTestingFramework\\YourExtensionClassCode.cs",
               "RelativeDocumentMoniker": "ExtensionClassTestingFramework\\YourExtensionClassCode.cs",
-              "ToolTip": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\YourExtensionClassCode.cs",
-              "RelativeToolTip": "ExtensionClassTestingFramework\\YourExtensionClassCode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\jason.tira\\source\\repos\\SyteLineExtensionClassTestingFramework\\ExtensionClassTestingFramework\\YourExtensionClassCode.cs*",
+              "RelativeToolTip": "ExtensionClassTestingFramework\\YourExtensionClassCode.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T20:24:00.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SQLInterrogator.cs",
               "DocumentMoniker": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\SQLInterrogator.cs",
-              "RelativeDocumentMoniker": "ExtensionClassTestingFramework\\SQLInterrogator.cs",
               "ToolTip": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\SQLInterrogator.cs",
-              "RelativeToolTip": "ExtensionClassTestingFramework\\SQLInterrogator.cs",
               "ViewState": "AQIAADQAAADANDMzM/MlwGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T23:31:41.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\Program.cs",
-              "RelativeDocumentMoniker": "ExtensionClassTestingFramework\\Program.cs",
-              "ToolTip": "H:\\Transfer\\ExtensionClassTestingFramework\\ExtensionClassTestingFramework\\Program.cs",
-              "RelativeToolTip": "ExtensionClassTestingFramework\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T21:25:37.941Z"
+              "WhenOpened": "2024-03-07T23:31:41.572Z"
             }
           ]
         }

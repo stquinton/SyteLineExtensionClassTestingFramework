@@ -31,7 +31,7 @@ namespace ExtensionClassTestingFramework
 
                 string curr = DateTime.Now.ToString("yyyyMMdd_HHmmss");
 
-                output_results(dtResults, "C:\\output_" + curr + ".csv");
+                output_results(dtResults, "C:\\temp\\output_" + curr + ".csv");
             }
             catch (Exception exc)
             {
