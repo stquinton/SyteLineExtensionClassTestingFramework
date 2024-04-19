@@ -60,9 +60,6 @@ bower_components
 # Ignore text files.
 *.txt
 
-# Ignore markdown files.
-*.md
-
 # Ignore vs and vscode files
 .vscode/
 .vs/
