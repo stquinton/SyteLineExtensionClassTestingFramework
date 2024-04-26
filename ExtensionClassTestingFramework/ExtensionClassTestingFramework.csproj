@@ -2,9 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <TargetFramework>net472</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,20 +10,23 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="IDOBase">
-      <HintPath>..\..\..\repos\SyteLine10DLLs\IDOBase.dll</HintPath>
-    </Reference>
     <Reference Include="IDOCore">
-      <HintPath>..\..\..\repos\SyteLine10DLLs\IDOCore.dll</HintPath>
+      <HintPath>..\..\..\InforCsiV10_dll\IDOCore.dll</HintPath>
     </Reference>
     <Reference Include="IDOProtocol">
-      <HintPath>..\..\..\repos\SyteLine10DLLs\IDOProtocol.dll</HintPath>
+      <HintPath>..\..\..\CSIv10 Base DLLs\IDOProtocol.dll</HintPath>
     </Reference>
     <Reference Include="IDORequestClient">
-      <HintPath>..\..\..\repos\SyteLine10DLLs\IDORequestClient.dll</HintPath>
+      <HintPath>..\..\..\CSIv10 Base DLLs\IDORequestClient.dll</HintPath>
+    </Reference>
+    <Reference Include="MGScriptMgr">
+      <HintPath>..\..\..\CSIv10 Base DLLs\MGScriptMgr.dll</HintPath>
     </Reference>
     <Reference Include="MGShared">
-      <HintPath>..\..\..\repos\SyteLine10DLLs\MGShared.dll</HintPath>
+      <HintPath>..\..\..\CSIv10 Base DLLs\MGShared.dll</HintPath>
+    </Reference>
+    <Reference Include="WSEnums">
+      <HintPath>..\..\..\CSIv10 Base DLLs\WSEnums.dll</HintPath>
     </Reference>
   </ItemGroup>
 
